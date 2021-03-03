@@ -1,3 +1,11 @@
+'''
+Filename: problem1.py
+Description: This program will calculate the wins and losses for your team while assigning you to your group based on that information
+Author:Yam.M
+Created On:03/03/2021
+
+'''
+
 #This is the title and the blank space
 print("Tournament Tracker")
 print("")
